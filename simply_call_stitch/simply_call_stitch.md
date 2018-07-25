@@ -3,7 +3,7 @@
 This example shows easiest way of OpenCV's stitcher  
 Just call stitch method  
 
-![structure](../docs_image/simply_call_stitch.png&s=200)
+![structure](../docs_image/simply_call_stitch.png)
 
 ## Include, definition 
 
