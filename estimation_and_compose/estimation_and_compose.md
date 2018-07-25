@@ -1,7 +1,7 @@
 # Estimation and compose
 
 Before see this document and example, Please see  
-[Simply call stitch](simply_call_stitch/simply_call_stitch.md)
+[Simply call stitch](../simply_call_stitch/simply_call_stitch.md)
 
 ## What is difference?
 
