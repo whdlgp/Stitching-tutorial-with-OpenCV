@@ -1,3 +1,7 @@
+
+# Created by https://www.gitignore.io/api/c++,cmake,opencv
+
+### C++ ###
 # Prerequisites
 *.d
 
@@ -30,3 +34,27 @@
 *.exe
 *.out
 *.app
+
+### CMake ###
+CMakeCache.txt
+CMakeFiles
+CMakeScripts
+Testing
+Makefile
+cmake_install.cmake
+install_manifest.txt
+compile_commands.json
+CTestTestfile.cmake
+CMakeLists.txt
+
+### OpenCV ###
+#OpenCV for Mac and Linux
+#build and release folders
+*/CMakeFiles
+*/CMakeCache.txt
+*/Makefile
+*/cmake_install.cmake
+.DS_Store
+
+
+# End of https://www.gitignore.io/api/c++,cmake,opencv
