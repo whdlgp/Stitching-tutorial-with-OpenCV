@@ -3,7 +3,7 @@
 This example shows easiest way of OpenCV's stitcher  
 Just call stitch method  
 
-![structure](docs_image/simply_call_stitch.png)
+![structure](../docs_image/simply_call_stitch.png)
 
 ## Include, definition 
 
@@ -107,4 +107,4 @@ float imshow_scale_factor = 0.2f;
 
 If stitcher API work well, you can see stitched image like below
 
-![stitch_output](docs_image/stitch_output.png)
+![stitch_output](../docs_image/stitch_output.png)
